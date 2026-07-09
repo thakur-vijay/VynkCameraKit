@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "VynkCameraKit",
-            url: "https://github.com/thakur-vijay/VynkCameraKit/releases/download/1.0.2/VynkCameraKit.xcframework.zip",
-            checksum: "be151028e8db9622cda1a5803059aebf923979458623d7b2c76e2e08a22744e2"
+            url: "https://github.com/thakur-vijay/VynkCameraKit/releases/download/1.1.3/VynkCameraKit.xcframework.zip",
+            checksum: "efdae26d0ebd1fa43d105a6d954fd5d8b9606d445baafe5422af64245f3ef301"
         )
     ]
 )
